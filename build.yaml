@@ -24,5 +24,5 @@ include:
     shield: lily58_right
 
   ## reset firmware
-  - board: nice_nano
+  - board: nice_nano@1.0.0//zmk
     shield: settings_reset
